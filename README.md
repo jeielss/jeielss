@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Jeiel Santos</h1>
 <h3 align="center">Apaixonado por tecnologia e engenharia de software</h3>
 
-- 🔭 Eu sou atualmente um estudante do [Curso de Ciência e Tecnologia da Universidade Federal de Santa Catarina - UFSC](http://ufsc.br/)
+- 🔭 Eu sou atualmente um estudante do [Curso de Ciência e Tecnologia da Universidade Federal de Santa Catarina - UFSC](https://cientec.joinville.ufsc.br/)
 
 - 🌱 Estou atualmente aprendendo sobre **Laravel, React-js,**
 
