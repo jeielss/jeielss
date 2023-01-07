@@ -1,9 +1,9 @@
-<h1 align="center">Olá Mundo 👋, Eu sou o Jeiel Santos</h1>
+<h1 align="center">Olá Mundo 👋, Meu nome é Jeiel Santos</h1>
 <h3 align="center">Apaixonado por tecnologia e engenharia de software</h3>
 
 - 🔭 Eu sou atualmente um estudante do [Curso de Ciência e Tecnologia da Universidade Federal de Santa Catarina - UFSC](https://cientec.joinville.ufsc.br/)
 
-- 🌱 Estou atualmente aprendendo sobre **Laravel, React-js,**
+- 🌱 Estou aprendendo sobre **Laravel, React-js,**
 
 - 👯 Estou colaborando com **a BOTCEM, equipe de competição da UFSC**
 
