@@ -5,11 +5,11 @@
 
 - 🌱 Estou aprendendo sobre **MVC, Laravel, React-js**
 
-- 👯 Estou colaborando com **a BOTCEM, equipe de competição da UFSC**
+- 👯 Estou colaborando com a [**BOTCEM, equipe de competição da UFSC**](https://botcem.ufsc.br/)
 
 - 💬 Me pergunte sobre **PHP, WordPress, C, C++, Python**
 
-- 📫 Como falar comigo **jeielsantosg@gmail.com**
+- 📫 Como falar comigo [**jeielsantosg@gmail.com**](mailto:jeielsantosg@gmail.com)
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
