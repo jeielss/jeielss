@@ -52,6 +52,4 @@
                 height="40" /> </a>
     </p>
 
-[![Jeiel Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=jeielss&hide=contribs&show_icons=true&theme=dark)](https://github.com/jeielss)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeielss&layout=compact&theme=dark)](https://github.com/jeielss)
 
