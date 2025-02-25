@@ -1,13 +1,13 @@
 <h1 align="center">Olá Mundo 👋, Meu nome é Jeiel Santos</h1>
-<h3 align="center">Apaixonado por tecnologia e engenharia de software</h3>
+<h3 align="center">Tecnologia e engenharia de software</h3>
 
-- 🔭 Eu sou atualmente um estudante do [Curso de Ciência e Tecnologia da Universidade Federal de Santa Catarina - UFSC](https://cientec.joinville.ufsc.br/)
+- 🔭 Eu sou atualmente um estudante do [Programa de Pós-Graduação em Engenharia de Sistemas Eletrônicos - UFSC](https://ppgese.joinville.ufsc.br/)
 
-- 🌱 Estou aprendendo sobre **MVC, Laravel, React-js**
+- 🌱 Estou aprendendo sobre **Apremdizado de máquina e Design Patterns (C++ e Python)**
 
 - 👯 Estou colaborando com a [**BOTCEM, equipe de competição da UFSC**](https://botcem.ufsc.br/)
 
-- 💬 Me pergunte sobre **PHP, WordPress, C, C++, Python**
+- 💬 Me pergunte sobre **C, C++, Python, PHP, WordPress**
 
 - 📫 Como falar comigo [**jeielsantosg@gmail.com**](mailto:jeielsantosg@gmail.com)
 
